@@ -1,5 +1,5 @@
 // ✅ 저작권 정보 추가
-// Copyright (c) 2024 kimcoding.co.kr
+// Copyright (c) 2025 kimcoding.co.kr
 // MIT License - https://kimcoding.co.kr
 
 // ✅ 유튜브 [ai자동화 복붙코딩]이 제작한 것으로 임의 수정 배포하시면 안됩니다.

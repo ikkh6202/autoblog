@@ -1,5 +1,5 @@
 // ✅ 저작권 정보 추가
-// Copyright (c) 2024 kimcoding.co.kr
+// Copyright (c) 2025 kimcoding.co.kr
 // MIT License - https://kimcoding.co.kr
 
 // ✅ 중복 방지를 위해 `isDownloading` 선언을 확인 후 추가
@@ -1026,6 +1026,7 @@ function extractImagesAndTitle() {
             images.push(imgSrc.split("?")[0]);
         }
     });
+
 
 
 

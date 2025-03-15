@@ -44,7 +44,7 @@
 
 ## 개발자 정보
 
-© 2024 [kimcoding.co.kr](https://kimcoding.co.kr)
+© 2025 [kimcoding.co.kr](https://kimcoding.co.kr)
 
 ## 라이센스
 

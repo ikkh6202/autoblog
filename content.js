@@ -1,5 +1,5 @@
 // ✅ 저작권 정보 추가
-// Copyright (c) 2024 kimcoding.co.kr
+// Copyright (c) 2025 kimcoding.co.kr
 // MIT License - https://kimcoding.co.kr
 
 // ChatGPT 자동 실행 + 블로그 제목/본문/사용자 프롬프트 복사 붙혀넣기 기능
