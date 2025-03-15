@@ -1,0 +1,37 @@
+{
+  "manifest_version": 3,
+  "name": "블로그 자동화!!!!!!!!",
+  "version": "1.6",
+  "description": "블로그 자동화!!!!!!!!!!!!!!!1",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "downloads",
+    "tabs"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png",
+    "default_title": "블로그 자동화!!!!!!!!!!!!!"
+  },
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "web_accessible_resources": [{
+    "resources": ["icon.png"],
+    "matches": ["<all_urls>"]
+  }]
+}

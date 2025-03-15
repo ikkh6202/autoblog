@@ -1,0 +1,20 @@
+# 개발 환경 파일
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 노드 모듈
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+
+# 개인 API 키 및 설정 파일
+.env
+config.json
+
+# 로그 파일
+*.log 
